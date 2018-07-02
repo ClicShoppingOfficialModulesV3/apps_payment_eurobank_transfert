@@ -4,7 +4,7 @@ This apps allow you to pour customer to make an euro transfert for you
 BIC
 SEPA
 SWIFT
-Iban
+Iban.
 
 Important Note :
 
