@@ -17,9 +17,12 @@ Install :
 http://monsite/myAdmin/index.php?A&Payment\EurobankTransfert
 
 Activate the module in Payment
+Copy the apps_payment_eurobank_transfert.json into ClicShopping/Work/Cache/Github (manual installation)
+
+
 
 See Marketplace for all informations
-link to marketplace : https://www.clicshopping.org/forum/files/file/37-apps-payment-eurobank-transfert/
+link to marketplace : https://www.clicshopping.org/forum/files/file/32-apps-payment-eurobank-transfert/
 
 ![moneris](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_eurobank_transfert/blob/master/ModuleInfosJson/eurobank.png)
 
